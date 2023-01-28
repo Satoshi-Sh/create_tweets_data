@@ -7,4 +7,7 @@ This repository was made to create tweets dataset easily. Used snscrape library 
 
 2.  Run get_data script with category name and keywords
      Ex:```python3 get_data.py burger-chain mcdonalds burgerking wendys```
- 3. csv files will be ready for each keyword. You can start data analysis project with your own dataset.  
+3. csv files will be ready for each keyword. You can start data analysis project with your own dataset.  
+
+### Dataset created with this repo.
+https://www.kaggle.com/datasets/satoshiss/top3-burger-chain-tweet-data
